@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imtiyazgithub&label=Profile%20views&color=0e75b6&style=flat" alt="imtiyazgithub" /> </p>
 
-- 🌱 I’m currently learning **Java Full Stack Development**
+- 🌱 I’m currently learning ** Full Stack Development**
 
 - ⚡ Fun fact **Always Excited to Write "Hello World!"**
 
