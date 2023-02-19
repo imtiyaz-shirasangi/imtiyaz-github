@@ -1,7 +1,8 @@
-[ ![Master head](https://www.google.com/search?q=github%20animated%20banner&tbm=isch&tbs=rimg:CQlS0L6ZS72eYWdlo5bjdxJlsgIMCgIIABAAOgQIARAA&hl=en&sa=X&ved=0CCYQuIIBahcKEwi40cDd15r9AhUAAAAAHQAAAAAQNg&biw=1458&bih=680#imgrc=8slf02g053EjXM);
+![logo]()
 <h1 align="center">Hi 👋, I'm Imtiyaz Shirasangi</h1>
 <h3 align="center">A passionate frontend developer from Online Tutorial</h3>
-<img align="right" alt="coding" width="400" src=""
+<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/117428054/219958649-d8d8118c-f588-4b0b-b881-5d395c8ecd02.png)
+"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imtiyazgithub&label=Profile%20views&color=0e75b6&style=flat" alt="imtiyazgithub" /> </p>
 
