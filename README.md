@@ -1,8 +1,7 @@
 ![logo]()
 <h1 align="center">Hi 👋, I'm Imtiyaz Shirasangi</h1>
 <h3 align="center">A passionate frontend developer from Online Tutorial</h3>
-<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/117428054/219958649-d8d8118c-f588-4b0b-b881-5d395c8ecd02.png)
-"
+<img align="right" alt="coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fgithub.blog%2Fwp-content%2Fuploads%2F2020%2F12%2F102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png%3Ffit%3D1200%252C630&imgrefurl=https%3A%2F%2Fgithub.blog%2F2020-12-21-how-we-built-the-github-globe%2F&tbnid=ESsI5xyBbeZpqM&vet=12ahUKEwiO3-rwzKj9AhVH_zgGHRfiAQYQMygNegUIARD9AQ..i&docid=M0NQuJdPYDiVjM&w=1200&h=630&q=github%20image&ved=2ahUKEwiO3-rwzKj9AhVH_zgGHRfiAQYQMygNegUIARD9AQ"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imtiyazgithub&label=Profile%20views&color=0e75b6&style=flat" alt="imtiyazgithub" /> </p>
 
