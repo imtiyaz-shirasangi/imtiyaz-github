@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Imtiyaz Shirasangi</h1>
-<h3 align="center">A passionate frontend developer from Online Tutorial</h3>
 
 🧠 I'm currently learning ** Full Stack Development**
 
