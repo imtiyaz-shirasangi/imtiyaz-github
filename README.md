@@ -3,13 +3,11 @@
 
 🧠 I'm currently learning ** Full Stack Development**
 
-👯‍♀️ I'm looking to collaborate on Github
-
-🤔 I'm looking for help with.
+👯‍♀️ I'm looking to collaborate on Git Hub
 
 💬 Ask me about Coding Problems with an error
 
-📫 How to reach me <a href ="linkedin.com/in/imtiyaz-shirasangi-22983b223">
+📫 How to reach me <a href ="linkedin.com/in/imtiyaz-shirasangi-22983b223" a>
 
 😄 Pronouns...
 
