@@ -9,7 +9,7 @@
 
 💬 Ask me about Coding Problems with an error
 
-📫 How to reach me linkedin.com/in/imtiyaz-shirasangi-22983b223
+📫 How to reach me <a href ="linkedin.com/in/imtiyaz-shirasangi-22983b223">
 
 😄 Pronouns...
 
