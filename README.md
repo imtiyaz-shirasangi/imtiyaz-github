@@ -5,7 +5,7 @@
 
 👯‍♀️ I'm looking to collaborate on Git Hub
 
-💬 Ask me about Coding Problems with an error
+💬 Ask me about Anything in Coding
 
 📫 How to reach me <a href ="linkedin.com/in/imtiyaz-shirasangi-22983b223" a>
 
