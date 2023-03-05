@@ -9,8 +9,6 @@
 
 📫 How to reach me <a href ="linkedin.com/in/imtiyaz-shirasangi-22983b223" a>
 
-😄 Pronouns...
-
 ⚡ Fun fact **Always Excited to Write "Hello World!"**
 
 <h3 align="left">Connect with me:</h3>
