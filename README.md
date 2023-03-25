@@ -1,5 +1,4 @@
 
-# 💫 About Me:
 <h1 align="center">Hi 👋, I'm Imtiyaz Shirasangi</h1><br><br>🧠 I'm currently learning ** Full Stack Development**<br><br>👯‍♀️ I'm looking to collaborate on Git Hub<br><br>💬 Ask me about Anything in Coding<br><br>📫 How to reach me imtiyazshirasangi456@gmail.com <br><br>⚡ Fun fact Always Excited to Write "Hello World!"
 
 
