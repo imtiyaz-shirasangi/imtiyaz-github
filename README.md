@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Imtiyaz Shirasangi</h1><br><br>🧠 I'm currently learning ** Full Stack Development**<br><br>👯‍♀️ I'm looking to collaborate on Git Hub<br><br>💬 Ask me about Anything in Coding<br><br>📫 How to reach me imtiyazshirasangi456@gmail.com <br><br>⚡ Fun fact Always Excited to Write "Hello World!"
+<h1 align="center">Hi 👋, I'm Imtiyaz Shirasangi</h1><br><br>🧠 I'm currently learning ** Full Stack Development**<br><br>👯‍♀️ "Let's create something amazing together! Looking for a frontend developer to collaborate with."<br><br>💬 "I may be new to frontend development, but I'm eager to help! Ask me anything and let's learn together."<br><br>📫 How to reach me imtiyazshirasangi456@gmail.com <br><br>⚡ Fun fact Always Excited to Write "Hello World!"
 
 
 ## 🌐 Socials:
